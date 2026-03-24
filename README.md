@@ -23,11 +23,11 @@ Our business is subject to various laws and regulations. Below is a overview the
 
 ### Kraftberedskapsforskriften
 Forskrift om sikkerhet og beredskap i kraftforsyningen er sentral for å sikre stabil drift av kraftforsyningen i Norge. 
-Link til veileder for (forskriften)[https://veiledere.nve.no/kraftberedskapsforskriften/]
+Link til veileder for [forskriften](https://veiledere.nve.no/kraftberedskapsforskriften/)
 
 ### Energiloven
 Energiloven skal sikre at produksjon, overføring, omsetning og bruk av energi skjer på en samfunnsmessig rasjonell måte. Den tar hensyn til både offentlige og private interesser.
-Link til (energiloven)[https://lovdata.no/dokument/NL/lov/1990-06-29-50/] 
+Link til [Energiloven](https://lovdata.no/dokument/NL/lov/1990-06-29-50/)
 
 
 
