@@ -18,5 +18,11 @@ KraftCERT is a sector CERT for the electric power and petroleum sectors. KraftCE
 
 The REPO [kraftcert-varsler](https://github.com/krafthack-by-techday/kraftcert-varsler) contains examples of a typical vurnability warnings. 
 
+## Relevant regulations and laws
+Our business is subject to various laws and regulations. Below is a overview the most relevant ones. 
+
+### Kraftberedskapsforskriften
+Link til veileder for (forskriften)[https://veiledere.nve.no/kraftberedskapsforskriften/]
+
 
 
