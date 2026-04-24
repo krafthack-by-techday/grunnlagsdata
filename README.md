@@ -8,7 +8,7 @@ Read more about CVE at [www.cve.org](https://www.cve.org/)
 
 ## CVSS methodology
 The Common Vulnerability Scoring System (CVSS) is an open framework for communicating the characteristics and severity of software vulnerabilities. 
-Read about CVSS methodology at [First CVSS usergudie] (https://www.first.org/cvss/v4.0/user-guide)
+Read about CVSS methodology at [First CVSS userguide](https://www.first.org/cvss/v4.0/user-guide)
 
 ## Links to Crisis Management and Communication Tools
 Examples of tools that are commenly used in our business for communication and cooporation during crisis: 
@@ -24,7 +24,7 @@ The REPO [kraftcert-varsler](https://github.com/krafthack-by-techday/kraftcert-v
 
 ## Information sharing
 Sharing information between organizations can be challenging and requires a platform for sending and receiving alerts. MISP and OpenCTI is a solution that many security communities use.
-Read more at:{MISP plattform](https://www.misp-project.org/) and [OpenCTI Github](https://github.com/opencti-platform/opencti)
+Read more at:[MISP plattform](https://www.misp-project.org/) and [OpenCTI Github](https://github.com/opencti-platform/opencti)
 
 ## Sensitivity labeling
 The Traffic Light Protocol (TLP) was created to facilitate greater sharing of potentially sensitive information and more effective collaboration. Information sharing happens from an information source, towards one or more recipients. TLP is a set of four labels used to indicate the sharing boundaries to be applied by the recipients. Read more at: [First TLP](https://www.first.org/tlp/)
