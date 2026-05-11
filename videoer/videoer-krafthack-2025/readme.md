@@ -1,2 +1,2 @@
 # Movies from 2025
-[Link to movies from 2025](https://stkrafthack.z6.web.core.windows.net/)
+[Link to movies from 2025](https://stkrafthack.z6.web.core.windows.net/2025/index.html)
